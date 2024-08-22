@@ -2,12 +2,7 @@
 ## Práctica04
 El objetivo de esta práctica es que el alumno sea capaz de crear una clase a partir de la
 definición de un problema.
-## Alumno
-(Nombre) (ApellidoPaterno) (ApellidoMaterno)
 
-(No. Cuenta)
-
-(Correo)
 ## Equipo #(Numero) 
 (Nombre1) (ApellidoPaterno1) (ApellidoMaterno1)
 
